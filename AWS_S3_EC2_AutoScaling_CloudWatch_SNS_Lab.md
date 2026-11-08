@@ -1323,7 +1323,7 @@ does not reverse charges already incurred.
 
 ------------------------------------------------------------------------
 
-## 47. Student completion checklist
+## 47. Project checklist
 
 ### S3 and IAM
 

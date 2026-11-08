@@ -787,7 +787,7 @@ Before launching:
 
 ---
 
-## 22. Student completion checklist
+## 22. Project completion checklist
 
 - [ ] Created `QB-Network-VPC` with CIDR `10.10.0.0/16`.
 - [ ] Created two public subnets and one private subnet.

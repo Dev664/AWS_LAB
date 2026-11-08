@@ -1,4 +1,4 @@
-# AWS Hands-On Lab: Basic Website creation with S3 + EC2 + Auto Scaling + CloudWatch + SNS
+# AWS Hands-On Lab Project : Basic Website creation with S3 + EC2 + Auto Scaling + CloudWatch + SNS
 
 **Suggested Region:** Frankfurt
 (`eu-central-1`) | **Estimated time:** 3--5 hours | you can use any region 

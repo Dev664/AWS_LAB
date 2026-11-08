@@ -1,7 +1,7 @@
 # AWS Hands-On Lab: Basic Website creation with S3 + EC2 + Auto Scaling + CloudWatch + SNS
 
-**Level:** Beginner-friendly \| **Suggested Region:** Frankfurt
-(`eu-central-1`) \| **Estimated time:** 3--5 hours
+**Level:* \| **Suggested Region:** Frankfurt
+(`eu-central-1`) | **Estimated time:** 3--5 hours | you can use any region 
 
 ## 1. Project overview
 
@@ -19,7 +19,7 @@ instructions and copy/paste the supplied files and commands.
 ### What you will learn
 
 -   Create an S3 bucket and upload JSON data.
--   Give EC2 secure S3 access using an IAM role (no hard-coded AWS
+-   GiveEC2 secure S3 access using an IAM role (no hard-coded AWS
     keys).
 -   Build a Python/Flask website.
 -   Create an AMI, target group, ALB, Launch Template and Auto Scaling
